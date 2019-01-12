@@ -91,11 +91,6 @@ void Game::UpdateModel()
 			isStarted = true;
 		}
 	}
-	
-	if (true)
-	{
-
-	}
 }
 
 void Game::ComposeFrame()
